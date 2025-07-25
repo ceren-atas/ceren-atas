@@ -1,6 +1,6 @@
 Merhaba! Ben Ceren Ataş 👋
 
-Yazılım geliştirmeye tutkuyla bağlı, yeni teknolojiler öğrenmeyi ve gerçek dünyaya faydalı projeler üretmeyi seven bir yazılımcıyım.
+Gazi Üniversitesi bilgisayar programcılığı bölümü mezunuyum.
 C# ve Java’yı ana dillerim olarak kullanıyor, masaüstü uygulamalardan görüntü işleme projelerine kadar farklı alanlarda çalışmalar yapıyorum.
 
 🌟 Öne Çıkan Projelerim
