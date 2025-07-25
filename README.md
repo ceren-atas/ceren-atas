@@ -1,6 +1,7 @@
 Merhaba! Ben Ceren Ataş 👋
 
 Gazi Üniversitesi bilgisayar programcılığı bölümü mezunuyum.
+
 C# ve Java’yı ana dillerim olarak kullanıyor, masaüstü uygulamalardan görüntü işleme projelerine kadar farklı alanlarda çalışmalar yapıyorum.
 
 🌟 Öne Çıkan Projelerim
