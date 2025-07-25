@@ -1,4 +1,5 @@
 Merhaba! Ben Ceren Ataş 👋
+
 Yazılım geliştirmeye tutkuyla bağlı, yeni teknolojiler öğrenmeyi ve gerçek dünyaya faydalı projeler üretmeyi seven bir yazılımcıyım.
 C# ve Python’u ana dillerim olarak kullanıyor, masaüstü uygulamalardan görüntü işleme projelerine kadar farklı alanlarda çalışmalar yapıyorum.
 Staj sürecimde deneyim kazanırken, pratik ve yenilikçi çözümler geliştirmeye odaklandım.
