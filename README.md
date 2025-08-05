@@ -20,7 +20,7 @@ Evcil hayvan sahiplerinin dostlarının aşı ve bakım takvimlerini kolayca pla
 
 ## 💻 Kullanılan Teknolojiler
 
-- **Programlama Dilleri:** C#, Python, SQL  
+- **Programlama Dilleri:** C#, Java, Python, SQL 
 - **Araçlar ve Kütüphaneler:** Visual Studio, SQLite, OpenCV, MSSQL, PostgreSQL, Eclipse, IntelliJ IDEA, Visual Studio Code, Git & GitHub  
 - **Alanlar:** Masaüstü uygulama geliştirme, Görüntü işleme, Veri tabanı yönetimi, Yapay zeka destekli uygulamalar
 
